@@ -1,1 +1,0 @@
-# spotless-solutions-website
